@@ -20,11 +20,11 @@ A modular Java project demonstrating both generic sorting through insertion sort
 
 - **src/RegisteredPerson.java**  
   *Extends `Person`.*  
-  Adds a government ID field. Represents people who are registered.
+  Adds a government ID field.
 
 - **src/OCCCPerson.java**  
   *Extends `RegisteredPerson`.*  
-  Adds a student ID field. Represents OCC students.
+  Adds a student ID field.
 
 - **src/GenerateFile.java**  
   *Random data generator.*  
