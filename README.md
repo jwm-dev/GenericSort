@@ -73,7 +73,7 @@ A modular Java project demonstrating both generic sorting through insertion sort
 
 ## Example Output
 
-![1/2](screenshots/example1_2.png)
-![2/2](screenshots/example2_2.png)
+![1/2](img/example1_2.png)
+![2/2](img/example2_2.png)
 
 ---
