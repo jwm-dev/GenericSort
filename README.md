@@ -70,3 +70,10 @@ A modular Java project demonstrating both generic sorting through insertion sort
 - To change how `Person` objects are sorted, edit the `PERSON_COMPARATOR` assignment in `Main.java` and choose different enum values for primary and secondary sorting.
 
 ---
+
+## Example Output
+
+![1/2](screenshots/example1_2.png)
+![2/2](screenshots/example2_2.png)
+
+---
