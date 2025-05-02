@@ -1,6 +1,6 @@
 # GenericSort
 
-A modular Java project demonstrating generic sorting through insertion sort and object-oriented design with inheritance.
+A modular Java project demonstrating both generic sorting through insertion sort and object-oriented design with inheritance.
 
 ---
 
